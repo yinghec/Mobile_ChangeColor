@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C7CDAA8C-56F8-46D9-B65C-AB3CBC5FDA05}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Chen.Yinghe.PJ1/Chen.Yinghe.PJ1.cs">
+    <Files>
+      <File FileName="Chen.Yinghe.PJ1/Chen.Yinghe.PJ1.cs" Line="90" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Chen.Yinghe.PJ1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.51DA326C-30FA-452B-A6DA-22B6DE516EFF" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Chen.Yinghe.PJ1.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
